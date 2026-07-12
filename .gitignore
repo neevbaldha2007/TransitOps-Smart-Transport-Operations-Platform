@@ -1,0 +1,9 @@
+# Dependency directories
+node_modules/
+
+# Local databases
+transitops.db
+
+# OS files
+.DS_Store
+Thumbs.db
